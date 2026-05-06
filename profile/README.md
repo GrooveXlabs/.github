@@ -87,6 +87,22 @@ Production-grade API client with circuit breaker, exponential retry, rate limiti
 </td>
 <td width="50%" valign="top">
 
+### 🏆 GrooveHub
+**MCP Server Registry with Security Scoring**
+
+[![Version](https://img.shields.io/badge/v0.1.0-Ready-ff006e?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/groovehub)
+[![Tests](https://img.shields.io/badge/Tests-24%2F24%20✓-00ff88?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/groovehub)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Registry-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1a2e)](https://github.com/GrooveXlabs/groovehub)
+
+The only MCP registry that auto-scores security. Register any server by GitHub URL, get a 0-100 score with letter grade.
+
+**→** [github.com/GrooveXlabs/groovehub](https://github.com/GrooveXlabs/groovehub)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛠️ ToolSmith
 **Autonomous Tool Discovery Agent**
 
@@ -96,6 +112,9 @@ Production-grade API client with circuit breaker, exponential retry, rate limiti
 Discovers trending dev tools, analyzes architecture, and builds improved alternatives. 5-gate gstack review pipeline.
 
 **→** [github.com/GrooveXlabs/toolsmith-agent](https://github.com/GrooveXlabs/toolsmith-agent)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -151,6 +170,7 @@ Every tool in the GrooveXlabs ecosystem is built with these six principles.
 | 🔗 Repository | 📋 Description | 🏷️ Status | 💻 Language |
 |---|---|---|---|
 | [grooveguard](https://github.com/GrooveXlabs/grooveguard) | MCP Server Security Scanner | `v0.2.0` | Python |
+| [groovehub](https://github.com/GrooveXlabs/groovehub) | MCP Server Registry with Security Scoring | `v0.1.0` | Python |
 | [groovefetch](https://github.com/GrooveXlabs/groovefetch) | AI-Native Adaptive Web Scraper | `v0.1.1` | Python |
 | [groovelink](https://github.com/GrooveXlabs/groovelink) | Resilient API Client | `v0.1.0` | Python |
 | [toolsmith-agent](https://github.com/GrooveXlabs/toolsmith-agent) | Autonomous Tool Discovery Agent | `Active` | Python |
