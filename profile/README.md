@@ -129,6 +129,55 @@ Discovers trending dev tools, analyzes architecture, and builds improved alterna
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 RedTrack
+**Red Team Reconnaissance & Attack Paths**
+
+[![Version](https://img.shields.io/badge/v0.1.0-Ready-ea4335?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/redtrack)
+[![Tests](https://img.shields.io/badge/Tests-8%2F8%20✓-00ff88?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/redtrack)
+[![MITRE](https://img.shields.io/badge/MITRE-ATT&CK-ea4335?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/redtrack)
+
+Fast port scanning, web recon, subdomain enum, tech fingerprinting, and MITRE-mapped attack path generation.
+
+**→** [github.com/GrooveXlabs/redtrack](https://github.com/GrooveXlabs/redtrack)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 ThreatHound
+**Blue Team SOC Automation**
+
+[![Version](https://img.shields.io/badge/v0.1.0-Ready-4285f4?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/threathound)
+[![Tests](https://img.shields.io/badge/Tests-6%2F6%20✓-00ff88?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/threathound)
+[![Sigma](https://img.shields.io/badge/Sigma-Rules-4285f4?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/threathound)
+
+IOC extraction from files/logs, Sigma rule generation, and pre-built Windows threat hunting playbooks.
+
+**→** [github.com/GrooveXlabs/threathound](https://github.com/GrooveXlabs/threathound)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 PurpleForge
+**Purple Team Defense Rules**
+
+[![Version](https://img.shields.io/badge/v0.1.0-Ready-9334e6?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/purpleforge)
+[![Tests](https://img.shields.io/badge/Tests-17%2F17%20✓-00ff88?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/purpleforge)
+[![Atomic](https://img.shields.io/badge/Atomic-Red%20Team-9334e6?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/purpleforge)
+
+Bridge offensive findings to defensive controls. MITRE mapping, Sigma rules, Atomic tests, and gap analysis.
+
+**→** [github.com/GrooveXlabs/purpleforge](https://github.com/GrooveXlabs/purpleforge)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -185,6 +234,9 @@ Every tool in the GrooveXlabs ecosystem is built with these six principles.
 | [groovestrike](https://github.com/GrooveXlabs/groovestrike) | Autonomous Penetration Testing Framework | `v0.1.0` | Python |
 | [groovefetch](https://github.com/GrooveXlabs/groovefetch) | AI-Native Adaptive Web Scraper | `v0.1.1` | Python |
 | [groovelink](https://github.com/GrooveXlabs/groovelink) | Resilient API Client | `v0.1.0` | Python |
+| [redtrack](https://github.com/GrooveXlabs/redtrack) | Red Team Recon & Attack Path Mapping | `v0.1.0` | Python |
+| [threathound](https://github.com/GrooveXlabs/threathound) | Blue Team SOC Automation | `v0.1.0` | Python |
+| [purpleforge](https://github.com/GrooveXlabs/purpleforge) | Purple Team Defense Rules | `v0.1.0` | Python |
 | [toolsmith-agent](https://github.com/GrooveXlabs/toolsmith-agent) | Autonomous Tool Discovery Agent | `Active` | Python |
 | [gstack-kimi](https://github.com/GrooveXlabs/gstack-kimi) | Kimi CLI Skills & Automation | `v1.0` | Markdown |
 | [AI-SOC-Analyst](https://github.com/GrooveXlabs/AI-SOC-Analyst) | LLM-Powered SOC Log Analyzer | `v0.1` | Python |
