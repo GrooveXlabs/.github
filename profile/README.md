@@ -176,6 +176,16 @@ Bridge offensive findings to defensive controls. MITRE mapping, Sigma rules, Ato
 </td>
 <td width="50%" valign="top">
 
+### 📚 Security Notes
+**Cybersecurity Learning Knowledge Base**
+
+[![Status](https://img.shields.io/badge/Notes-Active-7b2cbf?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/security-notes)
+[![Topics](https://img.shields.io/badge/Topics-4+-00d4ff?style=flat-square&labelColor=1a1a2e)](https://github.com/GrooveXlabs/security-notes)
+
+Curated notes on networking, Linux, web security, passwords, hashing, and more. Learn in public.
+
+**→** [github.com/GrooveXlabs/security-notes](https://github.com/GrooveXlabs/security-notes)
+
 </td>
 </tr>
 </table>
@@ -244,6 +254,9 @@ Every tool in the GrooveXlabs ecosystem is built with these six principles.
 | [SecureCode-AI](https://github.com/GrooveXlabs/SecureCode-AI) | Pre-commit Security Review | `v0.1` | Python |
 | [DarkBrief](https://github.com/GrooveXlabs/DarkBrief) | Threat Intelligence Aggregator | `v0.1` | Python |
 | [bhaaratclaw](https://github.com/GrooveXlabs/bhaaratclaw) | India's First CLAW | `v0.1` | Python |
+| [GrooveXlabs](https://github.com/GrooveXlabs/GrooveXlabs) | Password Strength Analyzer | `Active` | Python |
+| [simple-port-scanner](https://github.com/GrooveXlabs/simple-port-scanner) | Educational TCP Port Scanner | `Active` | Python |
+| [security-notes](https://github.com/GrooveXlabs/security-notes) | Cybersecurity Learning Notes | `Active` | Markdown |
 
 </div>
 
@@ -266,16 +279,43 @@ Every tool in the GrooveXlabs ecosystem is built with these six principles.
 
 ---
 
+## 🚀 Get Involved
+
 <div align="center">
 
-## 💬 Let's Build Together
+We believe security tools should be **open, auditable, and accessible**.
 
-<a href="https://github.com/GrooveXlabs">
-  <img src="https://img.shields.io/badge/GitHub-GrooveXlabs-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/GrooveXlabs/GrooveXlabs/blob/main/CONTRIBUTING.md">
+  <img src="https://img.shields.io/badge/🤝%20Contributing-Guidelines-00d4ff?style=for-the-badge&labelColor=0f0c29" />
+</a>
+<a href="https://github.com/GrooveXlabs/GrooveXlabs/blob/main/CODE_OF_CONDUCT.md">
+  <img src="https://img.shields.io/badge/📜%20Code%20of%20Conduct-Active-7b2cbf?style=for-the-badge&labelColor=0f0c29" />
 </a>
 
 <br><br>
 
+**Found a bug?** Open an issue.  
+**Have an idea?** Start a discussion.  
+**Want to build?** Check out our [good first issues](https://github.com/search?q=org%3AGrooveXlabs+label%3A%22good+first+issue%22&type=issues).
+
+</div>
+
+---
+
+## 💬 Connect With Us
+
+<div align="center">
+
+<a href="https://github.com/GrooveXlabs">
+  <img src="https://img.shields.io/badge/GitHub-GrooveXlabs-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:beingeonic@gmail.com">
+  <img src="https://img.shields.io/badge/Email-beingeonic@gmail.com-ff006e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=GrooveXlabs&color=ff006e&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 <br>
